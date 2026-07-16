@@ -184,7 +184,8 @@ The Python standard library does not require `pip install`. Start with the offic
 | `hashlib` | Secure hash and message digest algorithms. |
 
 ## Core Development Categories
-
+- **[Kedro](https://kedro.org/)** - Open-source Python framework for creating reproducible, maintainable, and modular data science and machine learning pipelines.  
+  `pip install kedro` · [Docs](https://docs.kedro.org/) · [Source](https://github.com/kedro-org/kedro) · [PyPI](https://pypi.org/project/kedro/) · License: Apache-2.0
 The entries below focus on Python packages and tools beyond the essential list. If a common default appears above, this section usually adds alternatives or adjacent tools rather than repeating the same entry.
 
 #### Arrays and numerical computing
