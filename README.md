@@ -636,6 +636,8 @@ Specialized projects are included more conservatively. They should have a clear 
 
 #### Civil, structural, finite-element, and geotechnical engineering
 
+- **[AgentFEM](https://haoming-luo.github.io/agentfem/)** - Readable finite-element workflows and an agent-friendly CLI for structural and thermal calculations with result verification.
+  `pip install agentfem` (requires a compatible FEniCSx/PETSc environment) · [Source](https://github.com/haoming-luo/agentfem) · [PyPI](https://pypi.org/project/agentfem/) · License: Apache-2.0 · Labels: `Specialized`, `Emerging`
 - **[OpenSeesPy](https://openseespydoc.readthedocs.io/)** - Python interface to OpenSees for earthquake and structural simulations.  
   `pip install openseespy` · [Source](https://github.com/zhuminjie/OpenSeesPy) · [PyPI](https://pypi.org/project/openseespy/)
 - **[anaStruct](https://anastruct.readthedocs.io/)** - 2D structural analysis library for beams and frames.  
